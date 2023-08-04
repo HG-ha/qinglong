@@ -33,7 +33,7 @@
 1. 安装qemu-system-x86_64
    
    ```shell
-   pkg install qemu-system-x86-64 wget -y
+   pkg install qemu-system-x86-64-headless wget -y
    ```
 
 2. 下载虚拟机文件
@@ -107,6 +107,7 @@
       source ~/.bashrc
       
       # 将.bashrc文件中 以# pnpm开头和结尾的中间行写入到/etc/profile
+      sed -n '/# pnpm/,/# pnpm end/p' >> /etc/profile
       ```
    
    2. 运行命令qinglong，脚本停止在update_depend这行
