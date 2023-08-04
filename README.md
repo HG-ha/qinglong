@@ -125,8 +125,8 @@
 
 | 支付宝                                                                                     | 微信                                                                                    | 群                |
 | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------- |
-| <img src="file:///C:/Users/17902/Desktop/zfb.jpg" title="" alt="zfb" style="zoom:25%;"> | <img title="" src="file:///C:/Users/17902/Desktop/wx.png" alt="wx" style="zoom:25%;"> | 一铭API：1029212047 |
-|                                                                                         |                                                                                       | 镜芯科技：376957298   |
+| <img src="https://github.com/HG-ha/qinglong/blob/main/zfb.jpg?raw=true" title="" alt="zfb" style="zoom:25%;"> | <img title="" src="https://github.com/HG-ha/qinglong/blob/main/wx.png?raw=true" alt="wx" style="zoom:25%;"> | 一铭API：1029212047 |
+|                                                                                       |                                                                                       | 镜芯科技：376957298   |
 
 
 
