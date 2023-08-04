@@ -33,7 +33,7 @@
 1. 安装qemu-system-x86_64
    
    ```shell
-   pkg install qemu-system-x86_64 wget -y
+   pkg install qemu-system-x86-64 wget -y
    ```
 
 2. 下载虚拟机文件
