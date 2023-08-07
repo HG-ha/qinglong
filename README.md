@@ -119,6 +119,12 @@
       
       sed -i 's/^update_depend//g' $QL_DIR/shell/start.sh
       ```
+3. 校准系统时间
+     ``` shell
+     apk add openntpd
+     rc-update add openntpd default
+     /etc/init.d/openntpd start
+     ```
       
       
 
