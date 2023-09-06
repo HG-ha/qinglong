@@ -26,7 +26,7 @@
 
 6. 度盘下载
    
-   1. [百度网盘 vn32](https://pan.baidu.com/s/1EI1rFdAKL58I_6lxM-yN3A?pwd=vn32)
+   1. [百度网盘 p194](https://pan.baidu.com/s/1fzpT08VzZQG5Lx7rPzzYDQ?pwd=p194)
 
 ### 在Termux中运行青龙面板（使用qinglong.qcow2-wm）
 
