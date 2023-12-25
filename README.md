@@ -46,7 +46,7 @@
    
    ```shell
    # 可以将此写入脚本，方便一键启用
-   qemu-system-x86_64 -smp 8 -m 1G \
+   qemu-system-x86_64 -smp 2 -m 1G \
      -drive file=qinglong.qcow2-wm,if=virtio \
      -netdev user,id=n1,hostfwd=tcp::5700-:5700 \
      -device virtio-net,netdev=n1 \
