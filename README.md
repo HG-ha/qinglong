@@ -4,7 +4,7 @@
    基础的虚拟机环境，可以拿去自由开发或使用
    下载：[https://pan.wer.plus/f/aPf2/qinglong.qcow2](https://pan.wer.plus/f/aPf2/qinglong.qcow2)
 
-2. qinhlong.qcow2-hj
+2. qinglong.qcow2-hj
    安装了nodejs18，npm，python3和c++，make的开发环境，可以直接在此环境上安装青龙面板。
    
    下载：[https://pan.wer.plus/f/wmFy/qinglong.qcow2-hj](https://pan.wer.plus/f/wmFy/qinglong.qcow2-hj)
