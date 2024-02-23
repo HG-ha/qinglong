@@ -42,7 +42,7 @@
    wget https://pan.wer.plus/f/Jwsv/qinglong.qcow2-wm
    ```
 
-3. 启动虚拟机（分配8核CPU，1G RAM）
+3. 启动虚拟机（分配2核CPU，1G RAM）
    
    ```shell
    # 可以将此写入脚本，方便一键启用
