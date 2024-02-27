@@ -36,7 +36,7 @@
    pkg install qemu-system-x86-64-headless wget -y
    ```
 
-2. 下载虚拟机文件
+2. 下载虚拟机文件（失效从网盘下载）
    
    ```shell
    wget https://pan.wer.plus/f/Jwsv/qinglong.qcow2-wm
