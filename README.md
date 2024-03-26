@@ -2,29 +2,15 @@
 
 1. qinglong.qcow2
    基础的虚拟机环境，可以拿去自由开发或使用
-   下载：[https://pan.wer.plus/f/aPf2/qinglong.qcow2](https://pan.wer.plus/f/aPf2/qinglong.qcow2)
-
 2. qinglong.qcow2-hj
    安装了nodejs18，npm，python3和c++，make的开发环境，可以直接在此环境上安装青龙面板。
-   
-   下载：[https://pan.wer.plus/f/wmFy/qinglong.qcow2-hj](https://pan.wer.plus/f/wmFy/qinglong.qcow2-hj)
-
 3. qinglong.qcow2-wz
    直接在虚拟机内构建的完整青龙面板，不要执行除了./start.sh以外的任何与面板有关的命令，否则会导致环境失效
-   
-   下载：[https://pan.wer.plus/f/KQco/qinglong.qcow2-wz](https://pan.wer.plus/f/KQco/qinglong.qcow2-wz)
-
 4. qinglong.qcow2-docker-wz
    在虚拟机内使用docker构建的青龙面板，性能损耗极高，但运行十分稳定
-   
-   下载：[https://pan.wer.plus/f/Qauq/qinglong.qcow2-docker-wz](https://pan.wer.plus/f/Qauq/qinglong.qcow2-docker-wz)
-
 5. qinglong.qcow2-wm
    直接在虚拟机内构建的完整青龙面板，相较于（3），整体环境更小，稳定性高，性能更高，非常推荐直接使用此版本
-   
-   下载：[https://pan.wer.plus/f/Jwsv/qinglong.qcow2-wm](https://pan.wer.plus/f/Jwsv/qinglong.qcow2-wm)
-
-6. 度盘下载
+6. 下载地址
    
    1. [百度网盘 p194](https://pan.baidu.com/s/1fzpT08VzZQG5Lx7rPzzYDQ?pwd=p194)
 
